@@ -1,7 +1,7 @@
-package com.tests.appium.devices.day9;
+package com.appium.tests.local.devices.day9;
 
 import com.appium.pageObjects.HomePage;
-import com.tests.appium.devices.day1.MyBase;
+import com.appium.tests.local.devices.day1.MyBase;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 

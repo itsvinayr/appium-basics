@@ -1,6 +1,6 @@
-package com.tests.appium.devices.day2;
+package com.appium.tests.local.devices.day2;
 
-import com.tests.appium.devices.day1.MyBase;
+import com.appium.tests.local.devices.day1.MyBase;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 
