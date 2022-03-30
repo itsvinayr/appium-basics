@@ -1,6 +1,6 @@
 # AppiumBasics
 <h1>Agenda:</h1>
-To Understand basic concepts in appium and to achieve enough knowledge to start with android test automation.<br/>
+To Understand basic concepts of appium, and to achieve enough knowledge to start with android test automation.<br/>
 <h1>Details:</h1>
 In this maven project, appium 7 is used to cover all the concepts that are required to do any operation on an android device
 like<br/>
