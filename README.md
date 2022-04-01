@@ -10,5 +10,7 @@ like<br/>
 4. Drag and Drop<br/>
 5. Scroll<br/>
 6. Toast Messages etc.<br/>
+Inaddition, we also covered on how to run tests in Cloud (Browser Stack)</br>
 <br/>
-For more details, Please take a look at my blog - https://vinayraghumanda.blogspot.com/2022/03/appium-mobile-test-automation.html
+For more details, Please take a look at my blog - https://vinayraghumanda.blogspot.com/2022/03/appium-mobile-test-automation.html</br>
+To start with automation framework - please refer to my github location - https://github.com/itsvinayr/AppiumTestNGFramework
